@@ -1,0 +1,188 @@
+{
+  "data": {
+    "characters": {
+      "result": [
+        {
+          "name": "Rahul",
+          "id": 276,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 277,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 278,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 279,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 280,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 281,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 282,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 283,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 291,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 292,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 293,
+          "type": "feme",
+          "status": "alive",
+          "species": "fantasy",
+          "gender": "female",
+          "image": "abd"
+        },
+        {
+          "name": "Rahul",
+          "id": 419,
+          "type": "male",
+          "status": "alive",
+          "species": "fantacy",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 421,
+          "type": "male",
+          "status": "alive",
+          "species": "fantacy",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 422,
+          "type": "male",
+          "status": "alive",
+          "species": "fantacy",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 424,
+          "type": "male",
+          "status": "alive",
+          "species": "fantacy",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 492,
+          "type": "Main",
+          "status": "Alive",
+          "species": "Romance",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 650,
+          "type": "superhero",
+          "status": "live",
+          "species": "danger",
+          "gender": "Male",
+          "image": "good"
+        },
+        {
+          "name": "Rahul",
+          "id": 801,
+          "type": "abc",
+          "status": "Alive",
+          "species": "xyz",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 802,
+          "type": "abc",
+          "status": "Alive",
+          "species": "xyz",
+          "gender": "male",
+          "image": "png"
+        },
+        {
+          "name": "Rahul",
+          "id": 1618,
+          "type": "Tester",
+          "status": "Live",
+          "species": "Human",
+          "gender": "Male",
+          "image": "png"
+        }
+      ]
+    }
+  }
+}
